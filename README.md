@@ -1,0 +1,1 @@
+# wanted-store-bot
